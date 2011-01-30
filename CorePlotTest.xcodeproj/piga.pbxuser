@@ -1,0 +1,154 @@
+// !$*UTF8*$!
+{
+	169F56CF12F2AA4D005898C9 /* CorePlotTest */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = CorePlotTest;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	169F56E512F2AA6C005898C9 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	169F56E612F2AA6C005898C9 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	1D3623240D0F684500981E51 /* CorePlotTestAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {865, 534}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 407}";
+		};
+	};
+	1D3623250D0F684500981E51 /* CorePlotTestAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {865, 534}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 541}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* CorePlotTest */ = {
+		activeExec = 0;
+		executables = (
+			169F56CF12F2AA4D005898C9 /* CorePlotTest */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* CorePlotTestViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {865, 534}}";
+			sepNavSelRange = "{112, 0}";
+			sepNavVisRange = "{0, 221}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* CorePlotTestViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {865, 1248}}";
+			sepNavSelRange = "{1012, 11}";
+			sepNavVisRange = "{344, 1831}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 169F56CF12F2AA4D005898C9 /* CorePlotTest */;
+		activeSDKPreference = iphonesimulator4.2;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* CorePlotTest */;
+		codeSenseManager = 169F56E612F2AA6C005898C9 /* Code sense */;
+		executables = (
+			169F56CF12F2AA4D005898C9 /* CorePlotTest */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					990,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					647,
+					60,
+					20,
+					48,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 318040341;
+			PBXWorkspaceStateSaveDate = 318040341;
+		};
+		sourceControlManager = 169F56E512F2AA6C005898C9 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	29B97316FDCFA39411CA2CEA /* main.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {729, 346}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 366}";
+		};
+	};
+	32CA4F630368D1EE00C91783 /* CorePlotTest_Prefix.pch */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {729, 346}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 193}";
+		};
+	};
+}

@@ -1,0 +1,51 @@
+TCorePlotTest
+v7
+r1
+
+N/Users/piga/Downloads/Applications/CorePlotTest/CorePlotTestViewController.xib
+c000000004A2B53F400000000000017F6
+t1244353524
+s6134
+
+N/Users/piga/Downloads/Applications/CorePlotTest/MainWindow.xib
+c000000004A2B3ECA00000000000021F6
+t1244348106
+s8694
+
+N/Users/piga/Downloads/Applications/CorePlotTest/build/Debug/CorePlotTest.app
+t2
+s0
+
+N/Users/piga/Downloads/Applications/CorePlotTest/build/Debug/CorePlotTest.app/Contents/Info.plist
+t2
+s0
+
+N/Users/piga/Downloads/Applications/CorePlotTest/build/Debug/CorePlotTest.app/Contents/PkgInfo
+t2
+s0
+
+N/Users/piga/Downloads/Applications/CorePlotTest/build/Debug/CorePlotTest.app/Contents/Resources/CorePlotTestViewController.nib
+t2
+s0
+
+N/Users/piga/Downloads/Applications/CorePlotTest/build/Debug/CorePlotTest.app/Contents/Resources/MainWindow.nib
+t2
+s0
+
+NInfo.plist
+c000000004A2B3ECA0000000000000386
+t1244348106
+s902
+
+CCompileXIB /Users/piga/Downloads/Applications/CorePlotTest/CorePlotTestViewController.xib
+r0
+
+CCompileXIB /Users/piga/Downloads/Applications/CorePlotTest/MainWindow.xib
+r0
+
+CProcessInfoPlistFile /Users/piga/Downloads/Applications/CorePlotTest/build/Debug/CorePlotTest.app/Contents/Info.plist Info.plist
+r0
+
+CTouch /Users/piga/Downloads/Applications/CorePlotTest/build/Debug/CorePlotTest.app
+r0
+
